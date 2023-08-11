@@ -1,0 +1,1 @@
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"enterprise.gloo.solo.io/v1","resources":[{"name":"authconfigs","singularName":"authconfig","namespaced":true,"group":"enterprise.gloo.solo.io","version":"v1","kind":"AuthConfig","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"shortNames":["ac","gac"]}]}

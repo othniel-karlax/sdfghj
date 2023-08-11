@@ -1,0 +1,10 @@
+<ÔYíQªVµqÉû0 …?Ô¥U5Ûc#§‚¦HTTP/2.0 200 OK
+Content-Length: 624
+Audit-Id: 6b3457dc-37d4-4c1b-bafa-83a1e4f0db43
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Thu, 03 Aug 2023 09:52:36 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 499090c7-f609-4794-a535-f71628312ce1
+X-Kubernetes-Pf-Prioritylevel-Uid: df3d59bd-c9b6-4324-9328-71dc0804503b
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"logstash.k8s.elastic.co/v1alpha1","resources":[{"name":"logstashes","singularName":"logstash","namespaced":true,"kind":"Logstash","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"shortNames":["ls"],"categories":["elastic"],"storageVersionHash":"g/GZee2Nj+Q="},{"name":"logstashes/status","singularName":"","namespaced":true,"kind":"Logstash","verbs":["get","patch","update"]},{"name":"logstashes/scale","singularName":"","namespaced":true,"group":"autoscaling","version":"v1","kind":"Scale","verbs":["get","patch","update"]}]}

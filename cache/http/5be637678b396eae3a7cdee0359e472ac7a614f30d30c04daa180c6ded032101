@@ -1,0 +1,20 @@
+´¨Ôz!u∆ë8£‰Äh&Çb	å3¿Ï”Làm	·5HTTP/2.0 200 OK
+Content-Length: 263
+Audit-Id: e78f72dd-6264-4c6f-9964-3b2e988a75a5
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Fri, 11 Aug 2023 06:40:20 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 499090c7-f609-4794-a535-f71628312ce1
+X-Kubernetes-Pf-Prioritylevel-Uid: df3d59bd-c9b6-4324-9328-71dc0804503b
+
+{
+  "major": "1",
+  "minor": "27",
+  "gitVersion": "v1.27.4",
+  "gitCommit": "fa3d7990104d7c1f16943a67f11b154b71f6a132",
+  "gitTreeState": "clean",
+  "buildDate": "2023-07-19T12:14:49Z",
+  "goVersion": "go1.20.6",
+  "compiler": "gc",
+  "platform": "linux/amd64"
+}

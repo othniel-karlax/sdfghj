@@ -1,0 +1,10 @@
+Ïñ¬üç¯6'.-ùÔÕpp}r$=)>)E–qá6HTTP/2.0 200 OK
+Content-Length: 523
+Audit-Id: 172ae9b1-4235-4dc6-b9ea-8192c6c8be61
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Thu, 03 Aug 2023 09:52:36 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 499090c7-f609-4794-a535-f71628312ce1
+X-Kubernetes-Pf-Prioritylevel-Uid: df3d59bd-c9b6-4324-9328-71dc0804503b
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"enterprisesearch.k8s.elastic.co/v1beta1","resources":[{"name":"enterprisesearches","singularName":"enterprisesearch","namespaced":true,"kind":"EnterpriseSearch","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"shortNames":["ent"],"categories":["elastic"],"storageVersionHash":"R5V+R+2jEoY="},{"name":"enterprisesearches/status","singularName":"","namespaced":true,"kind":"EnterpriseSearch","verbs":["get","patch","update"]}]}

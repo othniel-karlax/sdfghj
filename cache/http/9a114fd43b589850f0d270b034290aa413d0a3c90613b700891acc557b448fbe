@@ -1,0 +1,10 @@
+98Œì­¬ÝåVHq)³ž²Úo—3%[ô9±qÒHTTP/2.0 200 OK
+Content-Length: 485
+Audit-Id: 42e0e58b-24c5-4b31-8458-02fdb8ffa212
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Thu, 03 Aug 2023 09:52:36 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 499090c7-f609-4794-a535-f71628312ce1
+X-Kubernetes-Pf-Prioritylevel-Uid: df3d59bd-c9b6-4324-9328-71dc0804503b
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"ratelimit.solo.io/v1alpha1","resources":[{"name":"ratelimitconfigs","singularName":"ratelimitconfig","namespaced":true,"kind":"RateLimitConfig","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"shortNames":["rlc","grlc"],"storageVersionHash":"OJxsRW0v9Ls="},{"name":"ratelimitconfigs/status","singularName":"","namespaced":true,"kind":"RateLimitConfig","verbs":["get","patch","update"]}]}
